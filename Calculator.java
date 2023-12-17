@@ -141,7 +141,7 @@ int addc=0,subc=0,mulc=0,divc=0;
   panel.add(buttonEqual);
   panel.add(buttonClear);
   
-  //now add action listener for each buttons
+  
   
   button1.addActionListener(this);
   button2.addActionListener(this);
